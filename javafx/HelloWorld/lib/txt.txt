@@ -1,0 +1,9 @@
+EventHandler class object -> event(Mouse, key, window)
+1. target -> node of an event(layout, scene, window)
+2. source -> source of an event which is generated
+3. type -> click
+
+types of event handling in javafx
+
+1. without creating the object for EventHandler class
+2. using objects of EventHandler class
